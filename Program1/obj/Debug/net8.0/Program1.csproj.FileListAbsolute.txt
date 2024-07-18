@@ -12,3 +12,4 @@ C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debu
 C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debug\net8.0\Program1.pdb
 C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debug\net8.0\Program1.genruntimeconfig.cache
 C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debug\net8.0\ref\Program1.dll
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debug\net8.0\Program1.sourcelink.json

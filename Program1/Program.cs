@@ -20,8 +20,25 @@ Console.WriteLine(friends.Contains("Supon"));
 Console.WriteLine(friends.ToUpper());
 
 
-int a = 18;
-int b=6;
-int c = a+b ;
-
+int a = 2146999999; // max range of int = 2100000000
+int b=2146999999;
+// long c = checked(a+b) ; //it will check overflow never happens. Error : Unhandled exception. System.OverflowException: Arithmetic operation resulted in an overflow.
+ long c = a+b;
 Console.WriteLine(c);
+
+int d = 2146999999; // max range of int = 2100000000
+int e=2146999999;
+long f = (long)d+(long)e;
+Console.WriteLine(f);
+ 
+
+ float x = 3.5F;
+ float y = 4.3F;
+ float result = x+y;
+ Console.WriteLine(result);
+
+
+ decimal num1 = 42.1M;
+decimal num2 = 38.3M;
+decimal sum = num1+num2;
+Console.WriteLine(sum);
