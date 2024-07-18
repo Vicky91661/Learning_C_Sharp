@@ -1,0 +1,14 @@
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\bin\Debug\net8.0\Program1.exe
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\bin\Debug\net8.0\Program1.deps.json
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\bin\Debug\net8.0\Program1.runtimeconfig.json
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\bin\Debug\net8.0\Program1.dll
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\bin\Debug\net8.0\Program1.pdb
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debug\net8.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debug\net8.0\Program1.AssemblyInfoInputs.cache
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debug\net8.0\Program1.AssemblyInfo.cs
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debug\net8.0\Program1.csproj.CoreCompileInputs.cache
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debug\net8.0\Program1.dll
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debug\net8.0\refint\Program1.dll
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debug\net8.0\Program1.pdb
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debug\net8.0\Program1.genruntimeconfig.cache
+C:\Users\kumar\coding things\Fullstack Development\C#_Tutorial\Program1\obj\Debug\net8.0\ref\Program1.dll
